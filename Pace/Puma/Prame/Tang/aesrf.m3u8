@@ -745,6 +745,65 @@ http://panel.sulu1.cc:2052/travis1/travis1/90082
 #EXTINF:-1 group-title="การ์ตูน",KIDS 12
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90083
+
+
+
+
+#EXTINF:0,MONOMAX1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186561&extension=ts
+#EXTINF:0,MONOMAX1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax1/chunks.m3u8
+#EXTINF:0,MONOMAX2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-2/chunks.m3u8
+#EXTINF:0,MONOMAX2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186562&extension=ts
+#EXTINF:0,MONOMAX3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-3/chunks.m3u8
+#EXTINF:0,MONOMAX3
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186570&extension=ts
+#EXTINF:0,MONOMAX4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-4/chunks.m3u8
+#EXTINF:0,MONOMAX4
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186580&extension=ts
+#EXTINF:0,MONOMAX5
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186582&extension=ts
+#EXTINF:0,MONOMAX5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-5/chunks.m3u8
+#EXTINF:0,MONOMAX6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-6/chunks.m3u8
+#EXTINF:0,MONOMAX7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-7/chunks.m3u8
+#EXTINF:0,MONOMAX8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://warpdooball.net/
+#EXTVLCOPT:network-caching=1000
+https://cdn1.googlecdnforstreaming.live/live/monomax-8/chunks.m3u8
 ======================================================================
 
 #EXTM3U billed-msg="😎tv premium flowtv😎"
