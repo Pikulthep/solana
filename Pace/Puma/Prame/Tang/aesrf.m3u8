@@ -276,148 +276,267 @@
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/nbt.png" group-title="ดิจิตอลทีวี",NBT
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/nbt.png" group-title="ช่องดิจิตอลทีวี",NBT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/jvlbgvhf/jvlbgvhf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/thaipbs.png" group-title="ดิจิตอลทีวี",TPBS
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/thaipbs.png" group-title="ช่องดิจิตอลทีวี",TPBS
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/muruugvl/muruugvl.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="ดิจิตอลทีวี",ALTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="ช่องดิจิตอลทีวี",ALTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/tv5hd.jpg" group-title="ดิจิตอลทีวี",5HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/tv5hd.jpg" group-title="ช่องดิจิตอลทีวี",5HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/tsport.jpg" group-title="ดิจิตอลทีวี",T SPORT
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/ttsport.png" group-title="ช่องดิจิตอลทีวี",T SPORT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/tsport.jpg" group-title="ดิจิตอลทีวี",TPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/tptv.png" group-title="ช่องดิจิตอลทีวี",TPTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/murumuu/murumuu.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",TNN
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/tnn16.png" group-title="ช่องดิจิตอลทีวี",TNN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",JKN18
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/jkn18.png" group-title="ช่องดิจิตอลทีวี",JKN18
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/thaibaan.png" group-title="ดิจิตอลทีวี",ไทบ้านทีวี
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/thaibaan.png" group-title="ช่องดิจิตอลทีวี",ไทบ้านทีวี
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/nationn.png" group-title="ดิจิตอลทีวี",Nation
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/nationn.png" group-title="ช่องดิจิตอลทีวี",Nation
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/workpointt.png" group-title="ดิจิตอลทีวี",Workpoint
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/workpointt.png" group-title="ช่องดิจิตอลทีวี",Workpoint
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/true4uu.png" group-title="ดิจิตอลทีวี",True24
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/true4uu.png" group-title="ช่องดิจิตอลทีวี",True24
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/GGMM25.png" group-title="ดิจิตอลทีวี",GMM25
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/GGMM25.png" group-title="ช่องดิจิตอลทีวี",GMM25
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/cch8.png" group-title="ดิจิตอลทีวี",ช่อง 8
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/cch8.png" group-title="ช่องดิจิตอลทีวี",ช่อง 8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/mmono29.png" group-title="ดิจิตอลทีวี",MONO 29
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/mmono29.png" group-title="ช่องดิจิตอลทีวี",MONO 29
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/mmcot.png" group-title="ดิจิตอลทีวี",MCOT
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/mmcot.png" group-title="ช่องดิจิตอลทีวี",MCOT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/oone31.png" group-title="ดิจิตอลทีวี",ONE
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/oone31.png" group-title="ช่องดิจิตอลทีวี",ONE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/tthairath.png" group-title="ดิจิตอลทีวี",Thairath
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/tthairath.png" group-title="ช่องดิจิตอลทีวี",Thairath
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/cch3.png" group-title="ดิจิตอลทีวี",3HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/cch3.png" group-title="ช่องดิจิตอลทีวี",3HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/amaran.jpg" group-title="ดิจิตอลทีวี",Amarin
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/amaran.jpg" group-title="ช่องดิจิตอลทีวี",Amarin
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/cch7.png" group-title="ดิจิตอลทีวี",7HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/cch7.png" group-title="ช่องดิจิตอลทีวี",7HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/pptv.png" group-title="ดิจิตอลทีวี",PPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/pptv.png" group-title="ช่องดิจิตอลทีวี",PPTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ttopnew.jpg" group-title="ดิจิตอลทีวี",Top News (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ttopnew.jpg" group-title="ช่องดิจิตอลทีวี",Top News
 #EXTVLCOPT:network-caching=1000
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",NEWS1
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/nnew1.png" group-title="ช่องดิจิตอลทีวี",NEWS1
 #EXTVLCOPT:network-caching=1000
 https://server1.streamssl.com/stream/news1_mid.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",Cool Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ccoolchannel.jpg" group-title="ช่องดิจิตอลทีวี",Cool Channel
 #EXTVLCOPT:network-caching=1000
 https://live-iptv.cool-channel.com/cool/live-transmux.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",Channel8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="ช่องดิจิตอลทีวี",Chiangrai Channel
 #EXTVLCOPT:network-caching=1000
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",France 24
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://13livetv.com/asset/logo-512.png" group-title="ช่องดิจิตอลทีวี",13สยามไท
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/ss/suwannabhumi_tv.png" group-title="ช่องดิจิตอลทีวี", สุวรรณภูมิทีวี
 #EXTVLCOPT:network-caching=1000
-https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",CNA
+http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png"group-title="ช่องบันเทิง", HBOHD
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186515&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png"group-title="ช่องบันเทิง", HBOHits
 #EXTVLCOPT:network-caching=1000
-https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",NHK WORLD
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186429&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png" group-title="ช่องบันเทิง", HBOSignature
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186513&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png" group-title="ช่องบันเทิง", HBOFamily
 #EXTVLCOPT:network-caching=1000
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",CCTV4
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186427&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png" group-title="ช่องบันเทิง",Cinemax
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186470&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png" group-title="ช่องบันเทิง",Rock-Entertainment
 #EXTVLCOPT:network-caching=1000
-https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:82:A5&stream=562995&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png" group-title="ช่องบันเทิง",ROCKAction
+#EXTVLCOPT:network-caching=1000
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:82:A5&stream=562997&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HITS.png" group-title="ช่องบันเทิง",Hits
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
+https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//HitsMovie.png" group-title="ช่องบันเทิง",HitsMovie
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c94e3220-9a45-42e9-8bdb-01fc43e0f27c/white_textAction_Hollywood_Movies_logo_dark_-_Angela_Chan.png" group-title="ช่องบันเทิง",Action Hollywood Movies
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186608&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="ช่องบันเทิง",Axn
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186394&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="ช่องบันเทิง",Warnertv
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186637&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/29f93040-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueTHAIFILM
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186616&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26308f80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM1
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186617&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueFILM2
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186464&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/275f4b80-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องบันเทิง",trueMOVIEHITS
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186473&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26c50750-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueFILMASIA
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186466&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27a46ad0-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องบันเทิง",trueSeries
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186586&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/09/30/afce4460-220e-11ec-a7e5-ad93430e14a4_webp_original.png" group-title="ช่องบันเทิง",trueASIANMORE
+#EXTVLCOPT:network-caching=1000
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:24:82:A5&stream=563002&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png" group-title="ช่องบันเทิง",CCM
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186418&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//101_AsianHits.png" group-title="ช่องบันเทิง",AsianHits
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186517&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png" group-title="ช่องบันเทิง",Dragon
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-referrer=https://ballsod24hrs.com/
+https://cdn1.googlecdn.live/ballsod24hrs/mangorn/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/18/7c07f020-2515-11ee-ac34-39c66cab230f_webp_original.webp" group-title="ช่องบันเทิง",Cool Channel
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186556&extension=ts
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/lidoo.png"group-title="ช่องบันเทิง",ลิโด้ Channel
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/live_vod/lido.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/rama.png"group-title="ช่องบันเทิง",สยาม Channel
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/live_vod/siam.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/sakara.png"group-title="ช่องบันเทิง",สกาล่า Channel
+#EXTVLCOPT:network-caching=1000
+https://lb1-live-mv.v2h-cdn.com/live_vod/scala.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213309FWMOV.jpg" group-title="ช่องบันเทิง",FWMOV
+https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yLzIwMjUgNDowMzoxMCBBTSZoYXNoX3ZhbHVlPVg0M21uTWhXc0pmVExRZ1NKWW96bVE9PSZ2YWxpZG1pbnV0ZXM9Mg==
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.fileinw.com/postor/20240429213326FWSOV.jpg" group-title="ช่องบันเทิง",FWSOV
+https://live12.inwstream.com/transcoder_F1/fwsov_fw-iptv.stream/chunks.m3u8?nimblesessionid=28861983&wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDQ6MjA6MTEgQU0maGFzaF92YWx1ZT16M3hsS2VsSGpxcFNVL1NNOFc3YzNRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="ช่องบันเทิง",Thainews
+#EXTVLCOPT:network-caching=1000
+https://live.thaitvstream.com/play/thainews/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="ช่องบันเทิง",Siamnewstv
+#EXTVLCOPT:network-caching=1000
+https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/gochannel/gochannel.png" group-title="ช่องบันเทิง",Gochannel
+#EXTVLCOPT:network-caching=1000
+https://live2.thaitvstream.com/play/gochannel/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="ช่องบันเทิง",Chiangrai
+#EXTVLCOPT:network-caching=1000
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.i-pic.info/i/6CRS654262.png" group-title="ช่องบันเทิง",MOUNCHON TV
+#EXTVLCOPT:network-caching=1000
+https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXujzV25p7gmY7iEHlhAWAnfrppgP2wzj1uQ&s" group-title="ช่องบันเทิง",Channel8thailand
+#EXTVLCOPT:network-caching=1000
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186591&extension=ts
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/zeenung.png" group-title="ช่องบันเทิง",Zee Nung
+#EXTVLCOPT:network-caching=1000
+https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MxZHkhvV/logo-universal.png" group-title="ช่องบันเทิง",Universal
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/H-Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/w8KwvHyajnk/maxresdefault.jpg" group-title="ช่องบันเทิง",การ์ตูน
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+http://49.0.64.96:8007/Cartoonumi
+#EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies1
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=ไม่อนุญาตแกะลิงค์
+http://49.0.64.96:8007/SERIES
+#EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies2
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=ห้ามแชร์
+http://49.0.64.96:8007/IZAA
+#EXTINF:-1 tvg-id="" tvg-logo="https://f.ptcdn.info/539/005/000/1369556467-movienight-o.jpg" group-title="ช่องบันเทิง",movies3
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=https://playid.short.gy/
+http://49.0.64.96:8007/PING
 
 
 
@@ -500,238 +619,238 @@ https://cdn-live.dltv.ac.th/dltv15.m3u8
 
 
 
-#EXTINF:-1,<=== การ์ตูน ====>
+#EXTINF:-1,<=== ช่องการ์ตูน ====>
 #EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/Cartoonumi
 
-#EXTINF:-1 group-title="การ์ตูน",AMAZING
+#EXTINF:-1 group-title="ช่องการ์ตูน",AMAZING
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/AMAZING
-#EXTINF:-1 group-title="การ์ตูน",Gags
+#EXTINF:-1 group-title="ช่องการ์ตูน",Gags
 #EXTVLCOPT:network-caching=1000
 https://distributionsjustepourrire-justforlaughsgags-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="การ์ตูน",มิสเตอร์บีน
+#EXTINF:-1 group-title="ช่องการ์ตูน",มิสเตอร์บีน
 #EXTVLCOPT:network-caching=1000
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="การ์ตูน",Boomerang
+#EXTINF:-1 group-title="ช่องการ์ตูน",Boomerang
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-#EXTINF:-1 group-title="การ์ตูน",BC Boomerang Cartoon
+#EXTINF:-1 group-title="ช่องการ์ตูน",BC Boomerang Cartoon
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
-#EXTINF:-1 group-title="การ์ตูน",Cartoon Network
+#EXTINF:-1 group-title="ช่องการ์ตูน",Cartoon Network
 #EXTVLCOPT:network-caching=1000
 http://live1.inwstream.com:1936/transcoder_F1/cartoonnetwork_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/55
 http://150.129.9.194:8089/83/index.m3u8?token=test
-#EXTINF:-1 group-title="การ์ตูน",Nick Jr.
+#EXTINF:-1 group-title="ช่องการ์ตูน",Nick Jr.
 #EXTVLCOPT:network-caching=1000
 http://live3.inwstream.com:1936/transcoder_F1/nickjr_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/56
 http://150.129.9.194:8089/86/index.m3u8?token=test
-#EXTINF:-1 group-title="การ์ตูน",Nickelodeon
+#EXTINF:-1 group-title="ช่องการ์ตูน",Nickelodeon
 #EXTVLCOPT:network-caching=1000
 http://live4.inwstream.com:1936/transcoder_F1/nickelodeon_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/57
 http://panel.sulu1.cc:2052/travis1/travis1/3237
-#EXTINF:-1 group-title="การ์ตูน",Nicktoons 
+#EXTINF:-1 group-title="ช่องการ์ตูน",Nicktoons 
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/3234
-#EXTINF:-1 group-title="การ์ตูน",Cartoonito
+#EXTINF:-1 group-title="ช่องการ์ตูน",Cartoonito
 #EXTVLCOPT:network-caching=1000
 http://live5.inwstream.com:1936/transcoder_F1/cartoonito_inwiptv.stream/playlist.m3u8
 http://45.144.165.187:8080/playid168/12345/60
 http://panel.sulu1.cc:2052/travis1/travis1/1125
 
 http://45.144.165.187:8080/playid168/12345/54
-#EXTINF:-1 group-title="การ์ตูน",Disney Channel
+#EXTINF:-1 group-title="ช่องการ์ตูน",Disney Channel
 #EXTVLCOPT:network-caching=1000
 http://212.102.60.231/DISNEY/index.m3u8
 https://e3.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="การ์ตูน",Disney Junior 
+#EXTINF:-1 group-title="ช่องการ์ตูน",Disney Junior 
 #EXTVLCOPT:network-caching=1000
 http://116.90.120.149:8000/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="การ์ตูน",Disney International 
+#EXTINF:-1 group-title="ช่องการ์ตูน",Disney International 
 #EXTVLCOPT:network-caching=1000
 https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
-#EXTINF:-1 group-title="การ์ตูน",Cartoon
+#EXTINF:-1 group-title="ช่องการ์ตูน",Cartoon
 #EXTVLCOPT:network-caching=1000
 http://49.0.64.96:8007/Cartoonumi
-#EXTINF:-1 group-title="การ์ตูน",Mr.bean Cartoon
+#EXTINF:-1 group-title="ช่องการ์ตูน",Mr.bean Cartoon
 #EXTVLCOPT:network-caching=1000
 https://amg00627-amg00627c23-samsung-th-5282.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="การ์ตูน",Zoomoo
+#EXTINF:-1 group-title="ช่องการ์ตูน",Zoomoo
 #EXTVLCOPT:network-caching=1000
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="การ์ตูน",Baby Shark TV
+#EXTINF:-1 group-title="ช่องการ์ตูน",Baby Shark TV
 #EXTVLCOPT:network-caching=1000
 https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="การ์ตูน",Cinebox: Animation
+#EXTINF:-1 group-title="ช่องการ์ตูน",Cinebox: Animation
 #EXTVLCOPT:network-caching=1000
 http://1tv41.icu:8080/ahx4CN/815233/119420
-#EXTINF:-1 group-title="การ์ตูน",Shaun the Sheep & Friends
+#EXTINF:-1 group-title="ช่องการ์ตูน",Shaun the Sheep & Friends
 #EXTVLCOPT:network-caching=1000
 https://aar-shaun-xumo.otteravision.com/aar/shaun/shaun.m3u8
-#EXTINF:-1 group-title="การ์ตูน",Moonbug
+#EXTINF:-1 group-title="ช่องการ์ตูน",Moonbug
 #EXTVLCOPT:network-caching=1000
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="การ์ตูน",KIDS TV
+#EXTINF:-1 group-title="ช่องการ์ตูน",KIDS TV
 #EXTVLCOPT:network-caching=1000
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="การ์ตูน",One Piece
+#EXTINF:-1 group-title="ช่องการ์ตูน",One Piece
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5f7790b3ed0c88000720b241.m3u8
-#EXTINF:-1 group-title="การ์ตูน",Naruto
+#EXTINF:-1 group-title="ช่องการ์ตูน",Naruto
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
-#EXTINF:-1 group-title="การ์ตูน",Pokémon
+#EXTINF:-1 group-title="ช่องการ์ตูน",Pokémon
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-6675c7868768aa0008d7f1c7.m3u8
-#EXTINF:-1 group-title="การ์ตูน",LEGO Kids TV
+#EXTINF:-1 group-title="ช่องการ์ตูน",LEGO Kids TV
 #EXTVLCOPT:network-caching=1000
 https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
-#EXTINF:-1 group-title="การ์ตูน",Pet Collective1
+#EXTINF:-1 group-title="ช่องการ์ตูน",Pet Collective1
 #EXTVLCOPT:network-caching=1000
 https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="การ์ตูน",PetClub TV2
+#EXTINF:-1 group-title="ช่องการ์ตูน",PetClub TV2
 #EXTVLCOPT:network-caching=1000
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="การ์ตูน",Animation 1
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 1
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90039
-#EXTINF:-1 group-title="การ์ตูน",Animation 2
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 2
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90040
-#EXTINF:-1 group-title="การ์ตูน",Animation 3
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 3
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90041
-#EXTINF:-1 group-title="การ์ตูน",Animation 4
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 4
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90042
-#EXTINF:-1 group-title="การ์ตูน",Animation 5
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 5
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90043
-#EXTINF:-1 group-title="การ์ตูน",Animation 6
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 6
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90044
-#EXTINF:-1 group-title="การ์ตูน",Animation 7
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 7
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90045
-#EXTINF:-1 group-title="การ์ตูน",Animation 8
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 8
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90046
-#EXTINF:-1 group-title="การ์ตูน",Animation 9
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 9
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90047
-#EXTINF:-1 group-title="การ์ตูน",Animation 10
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 10
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90048
-#EXTINF:-1 group-title="การ์ตูน",Animation 11
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 11
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90049
-#EXTINF:-1 group-title="การ์ตูน",Animation 12
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 12
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90050
-#EXTINF:-1 group-title="การ์ตูน",Animation 13
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 13
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90051
-#EXTINF:-1 group-title="การ์ตูน",Animation 14
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 14
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90052
-#EXTINF:-1 group-title="การ์ตูน",Animation 15
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 15
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90053
-#EXTINF:-1 group-title="การ์ตูน",Animation 16
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 16
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90054
-#EXTINF:-1 group-title="การ์ตูน",Animation 17
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 17
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90055
-#EXTINF:-1 group-title="การ์ตูน",Animation 18
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 18
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90056
-#EXTINF:-1 group-title="การ์ตูน",Animation 19
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 19
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90057
-#EXTINF:-1 group-title="การ์ตูน",Animation 20
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 20
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90058
-#EXTINF:-1 group-title="การ์ตูน",Animation 90's 1
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 90's 1
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90059
-#EXTINF:-1 group-title="การ์ตูน",Animation 90's 2
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 90's 2
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90060
-#EXTINF:-1 group-title="การ์ตูน",Animation 90's 3
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 90's 3
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90061
-#EXTINF:-1 group-title="การ์ตูน",Animation 90's 4
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 90's 4
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90062
-#EXTINF:-1 group-title="การ์ตูน",Animation 90's 5
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation 90's 5
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90063
-#EXTINF:-1 group-title="การ์ตูน",Animation Classic 1
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation Classic 1
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90064
-#EXTINF:-1 group-title="การ์ตูน",Animation Classic 2
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation Classic 2
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90065
-#EXTINF:-1 group-title="การ์ตูน",Animation Classic 3
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation Classic 3
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90066
-#EXTINF:-1 group-title="การ์ตูน",Animation Classic 4
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation Classic 4
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90067
-#EXTINF:-1 group-title="การ์ตูน",Animation Classic 5
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation Classic 5
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90068
-#EXTINF:-1 group-title="การ์ตูน",Animation Classic 6
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation Classic 6
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90069
-#EXTINF:-1 group-title="การ์ตูน",Animation Classic 7
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation Classic 7
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90070
-#EXTINF:-1 group-title="การ์ตูน",Animation Classic 8
+#EXTINF:-1 group-title="ช่องการ์ตูน",Animation Classic 8
 #EXTVLCOPT:network-caching=5000
 http://panel.sulu1.cc:2052/travis1/travis1/90071
-#EXTINF:-1 group-title="การ์ตูน",KIDS 1
+#EXTINF:-1 group-title="ช่องการ์ตูน",KIDS 1
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90072
-#EXTINF:-1 group-title="การ์ตูน",KIDS 2
+#EXTINF:-1 group-title="ช่องการ์ตูน",KIDS 2
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90073
-#EXTINF:-1 group-title="การ์ตูน",KIDS 3
+#EXTINF:-1 group-title="ช่องการ์ตูน",KIDS 3
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90074
-#EXTINF:-1 group-title="การ์ตูน",KIDS 4
+#EXTINF:-1 group-title="ช่องการ์ตูน",KIDS 4
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90075
-#EXTINF:-1 group-title="การ์ตูน",KIDS 5
+#EXTINF:-1 group-title="ช่องการ์ตูน",KIDS 5
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90076
-#EXTINF:-1 group-title="การ์ตูน",KIDS 6
+#EXTINF:-1 group-title="ช่องการ์ตูน",KIDS 6
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90077
-#EXTINF:-1 group-title="การ์ตูน",KIDS 7
+#EXTINF:-1 group-title="ช่องการ์ตูน",KIDS 7
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90078
-#EXTINF:-1 group-title="การ์ตูน",KIDS 8
+#EXTINF:-1 group-title="ช่องการ์ตูน",KIDS 8
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90079
-#EXTINF:-1 group-title="การ์ตูน",KIDS 9
+#EXTINF:-1 group-title="ช่องการ์ตูน",KIDS 9
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90080
-#EXTINF:-1 group-title="การ์ตูน",KIDS 10
+#EXTINF:-1 group-title="ช่องการ์ตูน",KIDS 10
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90081
-#EXTINF:-1 group-title="การ์ตูน",KIDS 11
+#EXTINF:-1 group-title="ช่องการ์ตูน",KIDS 11
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90082
-#EXTINF:-1 group-title="การ์ตูน",KIDS 12
+#EXTINF:-1 group-title="ช่องการ์ตูน",KIDS 12
 #EXTVLCOPT:network-caching=1000
 http://panel.sulu1.cc:2052/travis1/travis1/90083
 
