@@ -296,17 +296,12 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffc/gvcvmuu/gvcvmuu.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/muushk/muushk.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",Boomerang
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",T SPORT
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/tsport.jpg" group-title="ดิจิตอลทีวี",T SPORT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/mulxvnghf/mulxvnghf.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",TPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/tsport.jpg" group-title="ดิจิตอลทีวี",TPTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
@@ -321,82 +316,77 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",ไทบ้านทีวี
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/thaibaan.png" group-title="ดิจิตอลทีวี",ไทบ้านทีวี
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",Nation
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/nationn.png" group-title="ดิจิตอลทีวี",Nation
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/goyjo/goyjo.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",Workpoint
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/workpointt.png" group-title="ดิจิตอลทีวี",Workpoint
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/gbinrvp/gbinrvp.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",True24
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/true4uu.png" group-title="ดิจิตอลทีวี",True24
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffca/mifainp/mifainp.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",GMM25
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/GGMM25.png" group-title="ดิจิตอลทีวี",GMM25
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/ugvhgvh/ugvhgvh.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",ช่อง 8
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/cch8.png" group-title="ดิจิตอลทีวี",ช่อง 8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/jvcxf/jvcxf.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",Boom Cartoon
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-#EXTVLCOPT:network-caching=1000
-https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",MONO 29
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/mmono29.png" group-title="ดิจิตอลทีวี",MONO 29
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbc/ffolvgdhk/ffolvgdhk.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",MCOT
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/mmcot.png" group-title="ดิจิตอลทีวี",MCOT
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffbb/gdhk/gdhk.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",ONE
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/oone31.png" group-title="ดิจิตอลทีวี",ONE
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffba/yogvfi/yogvfi.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",Thairath
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/tthairath.png" group-title="ดิจิตอลทีวี",Thairath
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/wmpiy/wmpiy.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",3HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/cch3.png" group-title="ดิจิตอลทีวี",3HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",Amarin
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/amaran.jpg" group-title="ดิจิตอลทีวี",Amarin
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",7HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/doo/cch7.png" group-title="ดิจิตอลทีวี",7HD
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",PPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/pptv.png" group-title="ดิจิตอลทีวี",PPTV
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 #EXTVLCOPT:network-caching=1000
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
-#EXTINF:-1 group-title="ดิจิตอลทีวี",Top News (720p)
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ttopnew.jpg" group-title="ดิจิตอลทีวี",Top News (720p)
 #EXTVLCOPT:network-caching=1000
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 group-title="ดิจิตอลทีวี",NEWS1
