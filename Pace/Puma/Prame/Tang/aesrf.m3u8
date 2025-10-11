@@ -409,35 +409,29 @@ http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ezoo/ccapybara.jpg"group-title="ช่องสวนสัตว์", คาปิบารา
-#EXTVLCOPT:network-caching=1000
 https://live-stream.zoodio.live/channel74-capybara/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ezoo/hhippo.jpg"group-title="ช่องสวนสัตว์", หมูเด้ง
-#EXTVLCOPT:network-caching=1000
 https://live-stream.zoodio.live/channel21-hippo/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ezoo/langur.jpg" group-title="ช่องสวนสัตว์", ค่างห้าสี
-#EXTVLCOPT:network-caching=1000
 https://live-stream.zoodio.live/channel62-langur/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ezoo/llleopard.jpg" group-title="ช่องสวนสัตว์", เสือลายเมฆ
-#EXTVLCOPT:network-caching=1000
 https://live-stream.zoodio.live/channel23-leopard/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ezoo/llion.jpg" group-title="ช่องสวนสัตว์", สิงโตขาว
 https://live-stream.zoodio.live/channel80-lion/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ezoo/ppenguin.jpg" group-title="ช่องสวนสัตว์", เพนกวินฮัมโบลด์
-#EXTVLCOPT:network-caching=1000
 https://live-stream.zoodio.live/channel68-penguin/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ezoo/rrhinoceros.jpg" group-title="ช่องสวนสัตว์", แรดขาว
-#EXTVLCOPT:network-caching=1000
 https://live-stream.zoodio.live/channel11-rhinoceros/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ezoo/ssloth.jpg" group-title="ช่องสวนสัตว์", สล็อต2นิ้ว
-#EXTVLCOPT:network-caching=1000
 https://live-stream.zoodio.live/channel56-sloth/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ezoo/ttiger.jpg" group-title="ช่องสวนสัตว์", เสือโคร่งอินโดจีน
-#EXTVLCOPT:network-caching=1000
 https://live-stream.zoodio.live/channel49-tiger/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ezoo/ttapir.jpg" group-title="ช่องสวนสัตว์", สมเสร็จ
-#EXTVLCOPT:network-caching=1000
 https://live-stream.zoodio.live/channel35-tapir/stream.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ezoo/llemur.jpg" group-title="ช่องสวนสัตว์", ลีเมอร์หางแหวน
+https://live-stream.zoodio.live/channel86-lemur/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://flowtv-stream.vercel.app/logos/ezoo/kkoala.jpg" group-title="ช่องสวนสัตว์", โคอาลา
+https://live-stream.zoodio.live/channel29-koala/stream.m3u8
 
 
 
